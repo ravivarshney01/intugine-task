@@ -129,7 +129,7 @@
           </v-item>
         </v-row>
       </v-item-group>
-      <v-row align="center" justify="center">
+      <v-row >
         <v-col xs="6" class="ma-2" style="border: 1px solid rgb(213,222,254)">
           <v-timeline dense>
             <v-timeline-item color="rgb(213,222,254)" fill-dot>
